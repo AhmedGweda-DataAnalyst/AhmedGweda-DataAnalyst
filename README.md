@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ahmed Ezzeldin — a passionate *Data Analyst* from Egypt 🇪🇬.  <br>I'm currently learning and applying skills in *Python, SQL, Excel, and Power BI* to transform data into meaningful insights.  <br>I’m always eager to explore real-world datasets, create visual dashboards, and improve my analytical thinking.  <br><br>💡 My goal is to become a professional Data Analyst who helps businesses make data-driven decisions.  <br>📚 Currently studying data analysis through a professional diploma and building hands-on projects here on GitHub.
+Hi, I'm Ahmed Gweda Ezzeldin — a passionate *Data Analyst* from Egypt 🇪🇬.  <br>I'm currently learning and applying skills in *Python, SQL, Excel, and Power BI* to transform data into meaningful insights.  <br>I’m always eager to explore real-world datasets, create visual dashboards, and improve my analytical thinking.  <br><br>💡 My goal is to become a professional Data Analyst who helps businesses make data-driven decisions.  <br>📚 Currently studying data analysis through a professional diploma and building hands-on projects here on GitHub.
 
 
 ## 🌐 Socials:
